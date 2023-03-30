@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.cont {
+  text-align: center;
+}
+.cont2 {
+  display: flex;
+}
+.appCont {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
